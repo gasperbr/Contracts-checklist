@@ -1,6 +1,9 @@
-# Pre deploy contract checklist
+# Contract checklist
 
-- [ ] Run formatting tool
+- [ ] Run formatter
 - [ ] Contract name matches file name
 - [ ] No unused imports
+- [ ] Specific imports `import {X} from Y.sol`
 - [ ] Set optimisations
+- [ ] Minimal function visibility
+- [ ] Fix solc version
