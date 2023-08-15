@@ -7,3 +7,4 @@
 - [ ] Set optimisations
 - [ ] Minimal function visibility
 - [ ] Fix solc version
+- [ ] Consider adding the receive fn.
