@@ -9,3 +9,4 @@
 - [ ] Fix solc version
 - [ ] Consider adding the receive fn.
 - [ ] Using safe transfer and safe approve
+- [ ] you should be able to reconstruct the state by replaying events
